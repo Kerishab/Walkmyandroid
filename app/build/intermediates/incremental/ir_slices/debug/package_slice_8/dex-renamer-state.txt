@@ -1,0 +1,4 @@
+#Wed Apr 17 10:29:43 SGT 2019
+base.0=F\:\\Degree\\MOBapp\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
